@@ -1,4 +1,4 @@
-package com.cpg.ms_userservice;
+package com.cpg.userservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

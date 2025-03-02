@@ -1,4 +1,4 @@
-package com.cpg.ms_userservice;
+package com.cpg.userservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
